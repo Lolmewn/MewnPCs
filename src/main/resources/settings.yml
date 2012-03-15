@@ -1,0 +1,6 @@
+MySQL-User: root
+MySQL-Pass: p4ssw0rd
+MySQL-Host: localhost
+MySQL-Port: 3306
+MySQL-Database: minecraft
+MySQL-Prefix: MewnPC_

@@ -1,8 +1,8 @@
-name: Skillz
+name: MewnPCs
 author: Lolmewn
-version: 5.51
-main: nl.lolmen.Skillz.Skillz
+version: 0.1ALPHA
+main: nl.lolmen.mewnpcs.Main
 commands:
-  skills:
+  npc:
     usage: /<command>
-    description: Check your skills!
+    description: All NPC commands

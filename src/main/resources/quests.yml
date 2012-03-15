@@ -1,0 +1,17 @@
+###Quest File for MewnPCs###
+firstQuest:
+    enabled: false
+    name: 'First Quest!'
+    list:
+        TALK: Lolmewn
+        NPCTALK: 'You have been chosen to begin on an epic quest'
+        NPCTALK: 'Please find some 5 glowstones for me'
+        BRING:
+            items: 89,5
+            npc: Lolmewn
+            money: 0
+        NPCTALK: 'kthnxbai'
+        TELLPLAYER: 'Quest Completed!'
+        GIVEPLAYER:
+            items: 266,2
+            money: 20
